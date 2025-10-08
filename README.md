@@ -123,6 +123,10 @@ Training and validation artifacts are in `Pictures/model/`.
     <td><img src="Pictures/model/confusion_matrix_normalized.png" alt="Confusion matrix normalized" width="260"/></td>
     <td><img src="Pictures/model/confusion_matrix.png" alt="Confusion matrix" width="260"/></td>
   </tr>
+
+
+
+  
   <tr>
     <td><img src="Pictures/model/labels.jpg" alt="Labels distribution" width="260"/></td>
     <td><img src="Pictures/model/labels_correlogram.jpg" alt="Labels correlogram" width="260"/></td>
