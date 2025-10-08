@@ -93,19 +93,16 @@ Images of the physical device and assembly are in `Pictures/Device/`.
 
 <table>
   <tr>
-    <td><img src="Pictures/Device/20250825_212557.jpg" alt="Device 212557" width="260"/></td>
+    <td><img src="Pictures/Device/20250825_213040.jpg" alt="Device 212557" width="260"/></td>
     <td><img src="Pictures/Device/20250825_212643.jpg" alt="Device 212643" width="260"/></td>
-    <td><img src="Pictures/Device/20250825_212726.jpg" alt="Device 212726" width="260"/></td>
   </tr>
   <tr>
+    <td><img src="Pictures/Device/20250825_212726.jpg" alt="Device 212726" width="260"/></td>
     <td><img src="Pictures/Device/20250825_212743.jpg" alt="Device 212743" width="260"/></td>
+  </tr>
+  <tr>
     <td><img src="Pictures/Device/20250825_212829.jpg" alt="Device 212829" width="260"/></td>
     <td><img src="Pictures/Device/20250825_212947.jpg" alt="Device 212947" width="260"/></td>
-  </tr>
-  <tr>
-    <td><img src="Pictures/Device/20250825_213040.jpg" alt="Device 213040" width="260"/></td>
-    <td></td>
-    <td></td>
   </tr>
   
 </table>
@@ -125,12 +122,16 @@ Training and validation artifacts are in `Pictures/model/`.
   <tr>
     <td><img src="Pictures/model/confusion_matrix_normalized.png" alt="Confusion matrix normalized" width="260"/></td>
     <td><img src="Pictures/model/confusion_matrix.png" alt="Confusion matrix" width="260"/></td>
+  </tr>
+  <tr>
     <td><img src="Pictures/model/labels.jpg" alt="Labels distribution" width="260"/></td>
     <td><img src="Pictures/model/labels_correlogram.jpg" alt="Labels correlogram" width="260"/></td>
   </tr>
   <tr>
     <td><img src="Pictures/model/t-SNE.png" alt="t-SNE" width="260"/></td>
     <td><img src="Pictures/model/val_batch0_pred.jpg" alt="Val batch 0 pred" width="260"/></td>
+  </tr>
+  <tr>
     <td><img src="Pictures/model/val_batch1_pred.jpg" alt="Val batch 1 pred" width="260"/></td>
     <td><img src="Pictures/model/val_batch2_pred.jpg" alt="Val batch 2 pred" width="260"/></td>
   </tr>
